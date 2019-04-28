@@ -1,5 +1,2 @@
 # kclass
-
-And some aws text
-
-add some text in github
+For Travis testing 
